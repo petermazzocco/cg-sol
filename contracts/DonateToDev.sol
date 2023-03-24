@@ -4,7 +4,7 @@
 pragma solidity ^0.8.4;
 
 // Switch this to your own contract address once deployed, for bookkeeping!
-//Contract Address on Goerli:  
+//Contract Address on Goerli:  0x5F0c4D5592204AD8F1d409ea7e9d8d81676B508E
 
 contract DonateToDev {
     // Event to emit when a Donation is happens.
